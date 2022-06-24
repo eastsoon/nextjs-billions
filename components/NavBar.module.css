@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: palevioletred;
+}
+.link{
+    text-decoration: none;
+}
+
+.active{
+    color: cadetblue;
+}
